@@ -1,6 +1,6 @@
 # Jacky Xie Chen Zhi Jie Portfolio 🚀
 Welcome to my personal portfolio website! It is interactive and responsive—give it a try!  
-You can use it on mobile devices and computers using web browsers: https://jackyzhijie.github.io/ <br/>
+You can use it on mobile devices and computers using web browsers: https://jackyzhijie.github.io/portfolio-v1/ <br/>
 This project showcases my engineering, creative, and photography work, as well as my technical skills and achievements.
 
 ## 🌟 Features
