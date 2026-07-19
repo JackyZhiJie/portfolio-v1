@@ -4,7 +4,7 @@ import About from "../pages/About";
 import Portfolio from "../pages/Portfolio";
 import Contact from "../pages/Contact";
 import Prose from "../pages/Prose";
-import { Routes, Route, useLocation, Router } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import Achievements from "../pages/Achievements";
 import Projects from "../pages/Projects";
