@@ -2,11 +2,11 @@ import React from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import AnimRoutes from "./components/AnimRoutes";
-import { HashRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom";
 const App = () => {
   return (
     <>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Header />
         <AnimRoutes />
         <Footer />
