@@ -1,7 +1,7 @@
 {
-  "homepage": "https://jackyzhijie.github.io/portfolio-v1",
   "name": "jacky-portfolio_v1_archive",
   "version": "1.0.0",
+  "homepage": "https://jackyzhijie.github.io/portfolio-v1",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^7.0.1",
