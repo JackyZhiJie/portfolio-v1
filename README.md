@@ -1,5 +1,5 @@
 # Jacky Xie Chen Zhi Jie Portfolio 🚀
-Welcome to my personal portfolio website! It is interactive and responsive—give it a try!  
+Welcome to my personal portfolio website (archive-v1)! It is interactive and responsive—give it a try!  
 You can use it on mobile devices and computers using web browsers: [https://jackyzhijie.github.io/portfolio-v1/](https://jackyzhijie.github.io/portfolio-v1/)  
 This project showcases my engineering, creative, and photography work, as well as my technical skills and achievements.
 
@@ -51,4 +51,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jackyxczj
 
 ---
 
-Made with ❤️ by Jacky Xie Chen Zhijie
+Made with ❤️ by Jacky Xie Chen Zhi Jie
